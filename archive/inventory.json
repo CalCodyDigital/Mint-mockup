@@ -1,0 +1,691 @@
+{
+  "base": "https://minthair.co.uk/",
+  "pages": [
+    {
+      "url": "https://minthair.co.uk/",
+      "title": "Mint Ware - MINT - 01920 460 317",
+      "file": "home",
+      "headings": [
+        "About",
+        "FOLLOW US ON INSTAGRAM"
+      ]
+    },
+    {
+      "url": "https://minthair.co.uk",
+      "title": "Mint Ware - MINT - 01920 460 317",
+      "file": "home",
+      "headings": [
+        "About",
+        "FOLLOW US ON INSTAGRAM"
+      ]
+    },
+    {
+      "url": "https://minthair.co.uk/about/",
+      "title": "Mint Hair Salon - Ware, 01920 460317 - 5 Baldock Street, SG12 9DH. Mens and ladies hairdressing. Cut and Colour. highlights, T Section, tint, blow dry.",
+      "file": "about",
+      "headings": [
+        "About"
+      ]
+    },
+    {
+      "url": "https://minthair.co.uk/products/",
+      "title": "Mint Products- Organic Colour Systems, Tangle Teezer, Cloud Nine straighteners",
+      "file": "products",
+      "headings": []
+    },
+    {
+      "url": "https://minthair.co.uk/price-list/",
+      "title": "Mint Hair Salon - Ware, 01920 460317 - 5 Baldock Street, SG12 9DH.",
+      "file": "price-list",
+      "headings": [
+        "PRICES FROM APRIL 1ST 2025",
+        "A 50% DEPOSIT WILL BE REQUIRED FOR SOME SERVICES"
+      ]
+    },
+    {
+      "url": "https://minthair.co.uk/contact/",
+      "title": "Mint Hair Salon - Ware, 01920 460317 - 5 Baldock Street, SG12 9DH",
+      "file": "contact",
+      "headings": [
+        "FIND US",
+        "CONTACT US"
+      ]
+    },
+    {
+      "url": "https://minthair.co.uk/find-us/",
+      "title": "Mint Hair Salon Ware, 01920 460317 - 5 Baldock Street, SG12 9DH",
+      "file": "find-us",
+      "headings": [
+        "Find Us"
+      ]
+    },
+    {
+      "url": "https://minthair.co.uk/careers/",
+      "title": "Careers - MINT - 01920 460 317",
+      "file": "careers",
+      "headings": [
+        "Careers"
+      ]
+    },
+    {
+      "url": "https://minthair.co.uk/opening-hours/",
+      "title": "Flexible Opening Hours - MINT - 01920 460 317",
+      "file": "opening-hours",
+      "headings": [
+        "Opening Hours"
+      ]
+    },
+    {
+      "url": "https://minthair.co.uk/cookie-consent-policy/",
+      "title": "Cookie Consent Policy - MINT - 01920 460 317",
+      "file": "cookie-consent-policy",
+      "headings": [
+        "Cookie Consent Policy"
+      ]
+    },
+    {
+      "url": "https://minthair.co.uk/privacy-policy/",
+      "title": "Privacy Policy - MINT - 01920 460 317",
+      "file": "privacy-policy",
+      "headings": [
+        "Privacy Policy"
+      ]
+    },
+    {
+      "url": "https://minthair.co.uk/reviews/",
+      "title": "REVIEWS - MINT - 01920 460 317",
+      "file": "reviews",
+      "headings": [
+        "REVIEWS"
+      ]
+    },
+    {
+      "url": "https://minthair.co.uk/blog/",
+      "title": "Mint - Hairdressers Ware - 01920 460317, Unisex Hair salon, Ware",
+      "file": "blog",
+      "headings": [
+        "MINT Men!",
+        "Everybody loves the sunshine",
+        "Save time with Revive",
+        "Understanding hair loss after pregnancy",
+        "Organic Colour Systems care range"
+      ]
+    },
+    {
+      "url": "https://minthair.co.uk/gallery/",
+      "title": "Gallery - MINT - 01920 460 317",
+      "file": "gallery",
+      "headings": [
+        "gallery"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1129,h_1296/https://minthair.co.uk/wp-content/uploads/2013/01/Mint_Logo.jpg",
+      "alt": "MINT - 01920 460 317",
+      "path": "assets/c84cfdbd8f41.webp",
+      "bytes": 100572,
+      "original_path": "assets/c84cfdbd8f41.jpg",
+      "web_bytes": 12976
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_850,h_600/https://minthair.co.uk/wp-content/uploads/2013/08/IMG_5223-Large-850x600.jpg",
+      "alt": "",
+      "path": "assets/4923cea1012a.webp",
+      "bytes": 79043,
+      "original_path": "assets/4923cea1012a.jpg",
+      "web_bytes": 46950
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_850,h_600/https://minthair.co.uk/wp-content/uploads/2013/08/IMG_5246-Copy-850x600.jpg",
+      "alt": "",
+      "path": "assets/9bca02211861.webp",
+      "bytes": 57202,
+      "original_path": "assets/9bca02211861.jpg",
+      "web_bytes": 34088
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_850,h_600/https://minthair.co.uk/wp-content/uploads/2013/07/IMG_5279-Copy-850x600.jpg",
+      "alt": "",
+      "path": "assets/97973ab5f4df.webp",
+      "bytes": 63146,
+      "original_path": "assets/97973ab5f4df.jpg",
+      "web_bytes": 36986
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_850,h_600/https://minthair.co.uk/wp-content/uploads/2017/08/MINT-HDR4-Large-850x600.jpg",
+      "alt": "",
+      "path": "assets/55c46fe2e490.webp",
+      "bytes": 89575,
+      "original_path": "assets/55c46fe2e490.jpg",
+      "web_bytes": 67460
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1620,h_1080/https://minthair.co.uk/wp-content/uploads/2013/06/IMG_3710-Large.jpg",
+      "alt": "",
+      "path": "assets/6be910d6c720.webp",
+      "bytes": 367419,
+      "original_path": "assets/6be910d6c720.jpg",
+      "web_bytes": 167738
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_50,h_50/https://minthair.co.uk/wp-content/uploads/2013/07/profile_456257565_75sq_1373283521.jpg",
+      "alt": "",
+      "path": "assets/64840f9c454c.webp",
+      "bytes": 3643,
+      "original_path": "assets/64840f9c454c.jpg",
+      "web_bytes": 1706
+    },
+    {
+      "url": "https://lh6.ggpht.com/-QcMOq147dFg/AAAAAAAAAAI/AAAAAAAAAAA/Ob_it-nVWq0/s56-c0x00000000-cc-rp-mo/photo.jpg",
+      "alt": "",
+      "path": "assets/b530a0711fb5.webp",
+      "bytes": 5833,
+      "original_path": "assets/b530a0711fb5.png",
+      "web_bytes": 1376
+    },
+    {
+      "url": "https://lh5.ggpht.com/-cSNF8YqSfZ0/AAAAAAAAAAI/AAAAAAAAAAA/z856lh6MlMM/s56-c0x00000000-cc-rp-mo/photo.jpg",
+      "alt": "",
+      "path": "assets/f39b26eccfc8.webp",
+      "bytes": 7117,
+      "original_path": "assets/f39b26eccfc8.png",
+      "web_bytes": 1644
+    },
+    {
+      "url": "https://lh3.ggpht.com/-Qtm-g-0t4Xw/AAAAAAAAAAI/AAAAAAAAAAA/Yt_cRuizVqM/s56-c0x00000000-cc-rp-mo/photo.jpg",
+      "alt": "",
+      "path": "assets/a05c874e655e.webp",
+      "bytes": 6880,
+      "original_path": "assets/a05c874e655e.png",
+      "web_bytes": 1520
+    },
+    {
+      "url": "https://lh4.ggpht.com/-O7kPV_SR6BI/AAAAAAAAAAI/AAAAAAAAAAA/l-aAMktPMcU/s56-c0x00000000-cc-rp-mo/photo.jpg",
+      "alt": "",
+      "path": "assets/ec09f2b813eb.webp",
+      "bytes": 826,
+      "original_path": "assets/ec09f2b813eb.png",
+      "web_bytes": 1342
+    },
+    {
+      "url": "https://lh6.ggpht.com/-99S4CXm_BXc/AAAAAAAAAAI/AAAAAAAAAAA/yrHXMyZSQf4/s56-c0x00000000-cc-rp-mo/photo.jpg",
+      "alt": "",
+      "path": "assets/3a1bccf8484a.webp",
+      "bytes": 826,
+      "original_path": "assets/3a1bccf8484a.png",
+      "web_bytes": 1342
+    },
+    {
+      "url": "https://lh5.ggpht.com/-_gYNAB2KO3U/AAAAAAAAAAI/AAAAAAAAAAA/ucYRewokFBk/s56-c0x00000000-cc-rp-mo/photo.jpg",
+      "alt": "",
+      "path": "assets/ddab75eb93dc.webp",
+      "bytes": 826,
+      "original_path": "assets/ddab75eb93dc.png",
+      "web_bytes": 1342
+    },
+    {
+      "url": "https://lh4.ggpht.com/-P9ZIHmVDujg/AAAAAAAAAAI/AAAAAAAAAAA/IVHAy9BksgM/s56-c0x00000000-cc-rp-mo/photo.jpg",
+      "alt": "",
+      "path": "assets/6b1c20243c75.webp",
+      "bytes": 826,
+      "original_path": "assets/6b1c20243c75.png",
+      "web_bytes": 1342
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://minthair.co.uk/wp-content/plugins/wp-facebook-reviews/public/partials/imgs/positive-min.png",
+      "alt": "positive review",
+      "path": "assets/9116161c2d70.webp",
+      "bytes": 291,
+      "original_path": "assets/9116161c2d70.png",
+      "web_bytes": 274
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://minthair.co.uk/wp-content/plugins/wp-facebook-reviews/public/partials/imgs/facebook_small_icon.png",
+      "alt": "",
+      "path": "assets/54ee24cfc2d2.webp",
+      "bytes": 223,
+      "original_path": "assets/54ee24cfc2d2.png",
+      "web_bytes": 368
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://minthair.co.uk/wp-content/plugins/wp-facebook-reviews/public/partials/avatars/1556999960_2614630951883852.jpg",
+      "error": "404 Client Error: Not Found for url: https://minthair.co.uk/wp-content/plugins/wp-facebook-reviews/public/partials/avatars/1556999960_2614630951883852.jpg"
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://minthair.co.uk/wp-content/plugins/wp-facebook-reviews/public/partials/avatars/1481701600_2165871060176885.jpg",
+      "error": "404 Client Error: Not Found for url: https://minthair.co.uk/wp-content/plugins/wp-facebook-reviews/public/partials/avatars/1481701600_2165871060176885.jpg"
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://minthair.co.uk/wp-content/plugins/wp-facebook-reviews/public/partials/avatars/1480171160_2800773086614474.jpg",
+      "error": "404 Client Error: Not Found for url: https://minthair.co.uk/wp-content/plugins/wp-facebook-reviews/public/partials/avatars/1480171160_2800773086614474.jpg"
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://minthair.co.uk/wp-content/plugins/wp-facebook-reviews/public/partials/avatars/1450353288_1536922536329826.jpg",
+      "error": "404 Client Error: Not Found for url: https://minthair.co.uk/wp-content/plugins/wp-facebook-reviews/public/partials/avatars/1450353288_1536922536329826.jpg"
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://minthair.co.uk/wp-content/plugins/wp-facebook-reviews/public/partials/avatars/1433433281_2085873828156684.jpg",
+      "error": "404 Client Error: Not Found for url: https://minthair.co.uk/wp-content/plugins/wp-facebook-reviews/public/partials/avatars/1433433281_2085873828156684.jpg"
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1620,h_1080/https://minthair.co.uk/wp-content/uploads/2017/08/IMG_3758-Large.jpg",
+      "alt": "",
+      "path": "assets/847d99b8edf5.webp",
+      "bytes": 229950,
+      "original_path": "assets/847d99b8edf5.jpg",
+      "web_bytes": 85310
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024,h_1536/https://minthair.co.uk/wp-content/uploads/2026/01/Mint-Price-List-2026.jpeg",
+      "alt": "",
+      "path": "assets/b2d0eb7625d3.webp",
+      "bytes": 98261,
+      "original_path": "assets/b2d0eb7625d3.jpg",
+      "web_bytes": 68174
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1620,h_1080/https://minthair.co.uk/wp-content/uploads/2019/06/MINT-HDR2-Large.jpg",
+      "alt": "",
+      "path": "assets/1fbc8ce621cb.webp",
+      "bytes": 436464,
+      "original_path": "assets/1fbc8ce621cb.jpg",
+      "web_bytes": 192542
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2013/08/IMG_5223-Large-850x600.jpg",
+      "alt": "",
+      "path": "assets/a55ebcf68a31.webp",
+      "original_path": "assets/a55ebcf68a31.jpeg",
+      "bytes": 79043,
+      "web_bytes": 49430
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2013/08/IMG_5246-Copy-850x600.jpg",
+      "alt": "",
+      "path": "assets/944400d8ab28.webp",
+      "original_path": "assets/944400d8ab28.jpeg",
+      "bytes": 57202,
+      "web_bytes": 35150
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2013/07/IMG_5279-Copy-850x600.jpg",
+      "alt": "",
+      "path": "assets/cf6c703f750c.webp",
+      "original_path": "assets/cf6c703f750c.jpeg",
+      "bytes": 63146,
+      "web_bytes": 38206
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2017/08/MINT-HDR4-Large-850x600.jpg",
+      "alt": "",
+      "path": "assets/ac9c071f4a93.webp",
+      "original_path": "assets/ac9c071f4a93.jpeg",
+      "bytes": 89575,
+      "web_bytes": 69564
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2013/06/IMG_3710-Large.jpg",
+      "alt": "",
+      "path": "assets/2fd84ad520ad.webp",
+      "original_path": "assets/2fd84ad520ad.jpeg",
+      "bytes": 367419,
+      "web_bytes": 179540
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2013/08/IMG_5246-Copy.jpg",
+      "alt": "",
+      "path": "assets/b8863e5f458e.webp",
+      "original_path": "assets/b8863e5f458e.jpeg",
+      "bytes": 232636,
+      "web_bytes": 96982
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2013/06/Mia-Wasikowska-short-haircut.jpg",
+      "alt": "",
+      "path": "assets/3e24bc3a36b7.webp",
+      "original_path": "assets/3e24bc3a36b7.jpeg",
+      "bytes": 30493,
+      "web_bytes": 36574
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2019/06/IMG_20190619_185043-400x250.jpg",
+      "alt": "",
+      "path": "assets/ae092c0d19b2.webp",
+      "original_path": "assets/ae092c0d19b2.jpeg",
+      "bytes": 10754,
+      "web_bytes": 6886
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2017/05/ocs_status_quo-protect-1000p.jpg",
+      "alt": "",
+      "path": "assets/d97e261267aa.webp",
+      "original_path": "assets/d97e261267aa.jpeg",
+      "bytes": 56367,
+      "web_bytes": 19718
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2015/05/revivepackshot.jpg",
+      "alt": "",
+      "path": "assets/788a61cb9636.webp",
+      "original_path": "assets/788a61cb9636.jpeg",
+      "bytes": 29785,
+      "web_bytes": 13946
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2014/02/kate-middleton-z.jpg",
+      "alt": "",
+      "path": "assets/c694a3bda402.webp",
+      "original_path": "assets/c694a3bda402.jpeg",
+      "bytes": 66383,
+      "web_bytes": 38898
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2014/08/status-quo1.jpg",
+      "alt": "",
+      "path": "assets/fa95f646b1dd.webp",
+      "original_path": "assets/fa95f646b1dd.jpeg",
+      "bytes": 1443365,
+      "web_bytes": 162148
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2017/09/schwarzkopf-professional-logo.jpg",
+      "alt": "",
+      "path": "assets/421a5631aeff.webp",
+      "original_path": "assets/421a5631aeff.jpeg",
+      "bytes": 11389,
+      "web_bytes": 6638
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2014/10/OGS2001.jpg",
+      "alt": "",
+      "path": "assets/4a8b1126213f.webp",
+      "original_path": "assets/4a8b1126213f.jpeg",
+      "bytes": 19653,
+      "web_bytes": 3150
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2014/10/c9s200.jpg",
+      "alt": "",
+      "path": "assets/a7419fc6616e.webp",
+      "original_path": "assets/a7419fc6616e.jpeg",
+      "bytes": 11272,
+      "web_bytes": 3494
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2014/10/TT200.jpg",
+      "alt": "",
+      "path": "assets/7b72f45fb5c4.webp",
+      "original_path": "assets/7b72f45fb5c4.jpeg",
+      "bytes": 13668,
+      "web_bytes": 3542
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2017/08/MINT-HDR4-Large.jpg",
+      "alt": "",
+      "path": "assets/3012eaddb0fd.webp",
+      "original_path": "assets/3012eaddb0fd.jpeg",
+      "bytes": 438770,
+      "web_bytes": 203660
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2017/08/MINT-HDR6-Large.jpg",
+      "alt": "",
+      "path": "assets/7971d01ff85a.webp",
+      "original_path": "assets/7971d01ff85a.jpeg",
+      "bytes": 300954,
+      "web_bytes": 153034
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2017/08/IMG_3707-Large.jpg",
+      "alt": "",
+      "path": "assets/c41f7539fb0d.webp",
+      "original_path": "assets/c41f7539fb0d.jpeg",
+      "bytes": 290557,
+      "web_bytes": 124262
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2013/10/OCS-Full-range.jpg",
+      "alt": "",
+      "path": "assets/9d1e72f4012a.webp",
+      "original_path": "assets/9d1e72f4012a.jpeg",
+      "bytes": 36765,
+      "web_bytes": 11148
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2013/10/10384390216_5d2a21298b_b.jpg",
+      "alt": "",
+      "path": "assets/18424da8fb72.webp",
+      "original_path": "assets/18424da8fb72.jpeg",
+      "bytes": 334496,
+      "web_bytes": 66844
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2013/08/IMG_5343-Large.jpg",
+      "alt": "",
+      "path": "assets/b16e1832459d.webp",
+      "original_path": "assets/b16e1832459d.jpeg",
+      "bytes": 285255,
+      "web_bytes": 77102
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2013/07/shop-front.jpg",
+      "alt": "",
+      "path": "assets/f25283c1af74.webp",
+      "original_path": "assets/f25283c1af74.jpeg",
+      "bytes": 909610,
+      "web_bytes": 222142
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2019/06/MINT-HDR2-Large.jpg",
+      "alt": "",
+      "path": "assets/8882d9bdc9e4.webp",
+      "original_path": "assets/8882d9bdc9e4.jpeg",
+      "bytes": 436464,
+      "web_bytes": 200346
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2026/01/Mint-Price-List-2026.jpeg",
+      "alt": "",
+      "path": "assets/e23606e0f1d7.webp",
+      "original_path": "assets/e23606e0f1d7.jpeg",
+      "bytes": 98261,
+      "web_bytes": 71126
+    },
+    {
+      "url": "https://minthair.co.uk/wp-content/uploads/2017/08/IMG_3758-Large.jpg",
+      "alt": "",
+      "path": "assets/d895dbd74a9d.webp",
+      "original_path": "assets/d895dbd74a9d.jpeg",
+      "bytes": 229950,
+      "web_bytes": 87470
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_614,h_409/https://minthair.co.uk/wp-content/uploads/2013/08/IMG_5246-Copy-1024x682.jpg",
+      "alt": "Mint Opening Hours",
+      "path": "assets/c2b84f1ecfe3.webp",
+      "original_path": "assets/c2b84f1ecfe3.jpeg",
+      "bytes": 101203,
+      "web_bytes": 42776
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_400,h_250/https://minthair.co.uk/wp-content/uploads/2019/06/IMG_20190619_185043-400x250.jpg",
+      "alt": "MINT Men!",
+      "path": "assets/90726d7c6d83.webp",
+      "original_path": "assets/90726d7c6d83.jpeg",
+      "bytes": 10754,
+      "web_bytes": 6886
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_400,h_250/https://minthair.co.uk/wp-content/uploads/2017/05/ocs_status_quo-protect-1000p.jpg",
+      "alt": "Everybody loves the sunshine",
+      "path": "assets/79497789fc45.webp",
+      "original_path": "assets/79497789fc45.jpeg",
+      "bytes": 56367,
+      "web_bytes": 19718
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_400,h_250/https://minthair.co.uk/wp-content/uploads/2015/05/revivepackshot.jpg",
+      "alt": "Save time with Revive",
+      "path": "assets/7c816b113273.webp",
+      "original_path": "assets/7c816b113273.jpeg",
+      "bytes": 29785,
+      "web_bytes": 13946
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_400,h_250/https://minthair.co.uk/wp-content/uploads/2014/02/kate-middleton-z.jpg",
+      "alt": "Understanding hair loss after pregnancy",
+      "path": "assets/c0e31edfa658.webp",
+      "original_path": "assets/c0e31edfa658.jpeg",
+      "bytes": 66383,
+      "web_bytes": 38898
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_400,h_250/https://minthair.co.uk/wp-content/uploads/2014/08/status-quo1.jpg",
+      "alt": "Organic Colour Systems care range",
+      "path": "assets/351e38e4202a.webp",
+      "original_path": "assets/351e38e4202a.jpeg",
+      "bytes": 1443365,
+      "web_bytes": 162148
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_400,h_204/https://minthair.co.uk/wp-content/uploads/2017/09/schwarzkopf-professional-logo.jpg",
+      "alt": "",
+      "path": "assets/c917463aabd7.webp",
+      "original_path": "assets/c917463aabd7.jpeg",
+      "bytes": 11389,
+      "web_bytes": 6638
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_200,h_133/https://minthair.co.uk/wp-content/uploads/2014/10/OGS2001.jpg",
+      "alt": "",
+      "path": "assets/19e5251b8690.webp",
+      "original_path": "assets/19e5251b8690.jpeg",
+      "bytes": 19653,
+      "web_bytes": 3150
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_200,h_133/https://minthair.co.uk/wp-content/uploads/2014/10/c9s200.jpg",
+      "alt": "",
+      "path": "assets/bfdbf8c2d17d.webp",
+      "original_path": "assets/bfdbf8c2d17d.jpeg",
+      "bytes": 11272,
+      "web_bytes": 3494
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_200,h_133/https://minthair.co.uk/wp-content/uploads/2014/10/TT200.jpg",
+      "alt": "",
+      "path": "assets/52e52e317d35.webp",
+      "original_path": "assets/52e52e317d35.jpeg",
+      "bytes": 13668,
+      "web_bytes": 3542
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_620,h_438/https://minthair.co.uk/wp-content/uploads/2017/08/MINT-HDR4-Large-620x438.jpg",
+      "alt": "",
+      "path": "assets/b92f72e3a317.webp",
+      "original_path": "assets/b92f72e3a317.jpeg",
+      "bytes": 51753,
+      "web_bytes": 42332
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_620,h_438/https://minthair.co.uk/wp-content/uploads/2017/08/MINT-HDR6-Large-620x438.jpg",
+      "alt": "",
+      "path": "assets/219e80fbed4f.webp",
+      "original_path": "assets/219e80fbed4f.jpeg",
+      "bytes": 44868,
+      "web_bytes": 33912
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_620,h_438/https://minthair.co.uk/wp-content/uploads/2017/08/IMG_3707-Large-620x438.jpg",
+      "alt": "",
+      "path": "assets/113592025d0b.webp",
+      "original_path": "assets/113592025d0b.jpeg",
+      "bytes": 44416,
+      "web_bytes": 33372
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_320,h_320/https://minthair.co.uk/wp-content/uploads/2013/10/OCS-Full-range.jpg",
+      "alt": "",
+      "path": "assets/d5948530b6aa.webp",
+      "original_path": "assets/d5948530b6aa.jpeg",
+      "bytes": 36765,
+      "web_bytes": 11148
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024,h_683/https://minthair.co.uk/wp-content/uploads/2013/10/10384390216_5d2a21298b_b.jpg",
+      "alt": "",
+      "path": "assets/a3bd262eae5e.webp",
+      "original_path": "assets/a3bd262eae5e.jpeg",
+      "bytes": 334496,
+      "web_bytes": 66844
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1621,h_1080/https://minthair.co.uk/wp-content/uploads/2013/08/IMG_5343-Large.jpg",
+      "alt": "",
+      "path": "assets/0ada5fcc4f34.webp",
+      "original_path": "assets/0ada5fcc4f34.jpeg",
+      "bytes": 285255,
+      "web_bytes": 77102
+    },
+    {
+      "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1936,h_1936/https://minthair.co.uk/wp-content/uploads/2013/07/shop-front.jpg",
+      "alt": "",
+      "path": "assets/ce85f2e572e3.webp",
+      "original_path": "assets/ce85f2e572e3.jpeg",
+      "bytes": 909610,
+      "web_bytes": 222142
+    }
+  ],
+  "external": {
+    "https://maps.google.com/?cid=17591154458200542222": "Mint",
+    "https://search.google.com/local/writereview?placeid=ChIJs6LyxacndkgRDowSHsdVIPQ": "review us on",
+    "https://www.google.com/maps/contrib/108758671738028314020/reviews": "Chris w",
+    "https://www.google.com/maps/contrib/101344721174806923929/reviews": "Callie Campbell",
+    "https://www.google.com/maps/contrib/115311288830588957671/reviews": "Claire Robertson-Adams",
+    "https://www.google.com/maps/contrib/115645837161339348599/reviews": "Rachael Tucker",
+    "https://www.google.com/maps/contrib/108103274181624099929/reviews": "Bianca Pierre",
+    "https://www.google.com/maps/contrib/103399778928682005308/reviews": "Alice Worrall",
+    "https://www.google.com/maps/contrib/109334735599502660589/reviews": "CaroleAnne Runcorn",
+    "https://www.google.com/maps/contrib/111099620715463148868/reviews": "Coleen Minter",
+    "https://www.google.com/maps/contrib/108469941148569939707/reviews": "Anne  Davis",
+    "https://www.google.com/maps/contrib/112684824930083740247/reviews": "Alison Jarvis",
+    "https://www.google.com/maps/contrib/116533322892980268604/reviews": "Jane Frances",
+    "https://www.google.com/maps/contrib/102348284560054119885/reviews": "Manuela Dumitru",
+    "https://www.google.com/maps/contrib/108198050812796094361/reviews": "Julie McKenzie",
+    "https://www.google.com/maps/contrib/115607004788015587930/reviews": "Neelama Khanam",
+    "https://www.google.com/maps/contrib/116524762653800840388/reviews": "kim griffin",
+    "https://www.google.com/maps/contrib/105012218317673719293/reviews": "Liz McGarry",
+    "https://www.google.com/maps/contrib/111395987265936239964/reviews": "Emily Rainbow",
+    "https://www.google.com/maps/contrib/111151818617835709357/reviews": "Joanne King",
+    "https://www.google.com/maps/contrib/112226432513185014617/reviews": "Rachel Batchelor",
+    "https://www.google.com/maps/contrib/110200918292594020361/reviews": "lisa Greer",
+    "https://www.google.com/maps/contrib/115126282829725772433/reviews": "Harriet Rose",
+    "https://www.google.com/maps/contrib/100218827565844017202/reviews": "faith clark",
+    "https://www.google.com/maps/contrib/109166048957932975208/reviews": "David Brand",
+    "https://www.google.com/maps/contrib/101811325966588603670/reviews": "Victoria Welton",
+    "https://www.google.com/maps/contrib/110861489021189227729/reviews": "Joanna Shurety",
+    "https://www.google.com/maps/contrib/112349749335514375803/reviews": "Kay Murphy",
+    "https://www.google.com/maps/contrib/114643159905129949003/reviews": "Hannah Mckay",
+    "https://www.google.com/maps/contrib/110762472560013890460/reviews": "Sandy Gibb",
+    "https://www.google.com/maps/contrib/100374409421069928173/reviews": "Jenny Bentley",
+    "https://www.facebook.com/pg/223785711082651/reviews/": "",
+    "https://www.facebook.com/mintware/": "Facebook",
+    "http://hertscomputerservices.com": "Setup by Herts Computer Services",
+    "https://www.facebook.com/mintware": "Follow via Facebook",
+    "https://twitter.com/MintHairWare": "Follow via Twitter",
+    "http://instagram.com/minthairware": "Follow via Instagram",
+    "http://www.eastherts.gov.uk/warecarparks": "clicking here"
+  },
+  "errors": [],
+  "documents": [],
+  "sitemap_urls": [
+    "https://minthair.co.uk/post-sitemap.xml",
+    "https://minthair.co.uk/page-sitemap.xml",
+    "https://minthair.co.uk/attachment-sitemap.xml",
+    "https://minthair.co.uk/category-sitemap.xml",
+    "https://minthair.co.uk/author-sitemap.xml"
+  ],
+  "sitemap_page_count": 13
+}
